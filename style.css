@@ -149,6 +149,10 @@ header {
   color: #666;
 }
 
+.faq-list {
+  margin-left: 20px;
+}
+
 footer {
   background-color: #274f35;
   color: white;
