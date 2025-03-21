@@ -139,16 +139,6 @@ header {
 }
 
 .faq-item {
-  margin-bottom: 15px;
-  border-bottom: 1px solid #eee;
-  padding-bottom: 15px;
-}
-
-.faq-question {
-  display: flex;
-}
-
-.faq-answer {
   margin-top: 10px;
   padding: 10px;
   background-color: #f9f9f9;
